@@ -1,0 +1,211 @@
+*GO: mitochondrion inheritance
+The distribution of mitochondria including the mitochondrial genome into daughter cells after mitosis or meiosis mediated by interactions between mitochondria and the cytoskeleton
+mitochondrial inheritance
+*GO: mitochondrial genome maintenance
+The maintenance of the structure and integrity of the mitochondrial genome includes replication and segregation of the mitochondrial chromosome
+*GO: reproduction
+The production of new individuals that contain some portion of genetic material inherited from one or more parent organisms
+reproductive physiological process
+*GO: ribosomal chaperone activity
+in the correct assembly of ribosomes or ribosomal subunits in vivo but is not a component of the assembled ribosome when performing its normal biological function
+ribosomal chaperone activity
+*GO: high - affinity zinc uptake transmembrane transporter activity
+the transfer of a solute or solutes from one side of a membrane to the other according to the + out = + in probably powered by proton force In high - affinity transport the transporter is able to bind the solute even if it is only present at very low concentrations
+high affinity zinc uptake transmembrane transporter activity
+*GO: low - affinity zinc ion transmembrane transporter activity
+of the transfer of a solute or solutes from one side of a membrane to the other according to the + = + probably powered by proton force In low - affinity transport the transporter is able to bind the solute only if it is present at very high concentrations
+*GO: thioredoxin
+A small disulfide - containing redox protein that serves as a general protein disulfide oxidoreductase with a broad range of proteins by a redox mechanism based on the reversible oxidation of 2 cysteine groups to a disulfide accompanied by the transfer of 2 and 2 The net result is the covalent of a disulfide and a
+thioredoxin
+*GO: alpha - 1 6 - activity
+of the transfer of a mannose residue to an forming an alpha - 1 - > 6 linkage
+1 6 - alpha - activity
+*GO: trans - activity
+of the all - trans - diphosphate + diphosphate = all - trans - diphosphate + diphosphate
+*GO: vacuole inheritance	
+The distribution of into daughter cells after mitosis or meiosis mediated by interactions between and the cytoskeleton
+*GO: single strand break repair	
+The repair of single strand breaks in DNA Repair of such breaks is mediated by the same enzyme systems as are used in base excision repair
+*GO: single - stranded DNA activity
+of the hydrolysis of ester linkages within a single - stranded acid molecule by creating internal breaks
+single - stranded DNA specific activity	
+- specific activity
+*GO: complex
+A enzyme complex usually a dimer or an that catalyzes the conversion of 2 - - D - to phosphoenolpyruvate and water
+enolase complex
+*GO: activity
+of the + = D - glucose + D - galactose
+- hydrolase activity
+activity
+*GO: alpha - transport
+The directed movement of alpha - into out of or within a cell or between cells by means of some agent such as a transporter or pore - are in which the sugar group is a glucose residue and the carbon of the bond is in an alpha configuration
+*GO: regulation of DNA recombination
+Any process that modulates the frequency rate or extent of DNA recombination a DNA metabolic process in which a new genotype is formed by of genes resulting in gene combinations different from those that were present in the parents
+*GO: regulation of mitotic recombination
+Any process that modulates the frequency rate or extent of DNA recombination during mitosis
+regulation of recombination within rDNA repeats
+*GO: negative regulation of recombination within rDNA repeats
+Any process that prevents or reduces the frequency rate or extent of genetic recombination within the DNA of the genes coding for ribosomal RNA
+negative regulation of recombination within rDNA repeats
+*GO: mitotic spindle elongation
+The cell cycle process in which the distance is between of the mitotic spindle spindle elongation begins during mitotic prophase and ends during mitotic B
+spindle elongation during mitosis
+*GO: metabolic process
+The chemical reactions and pathways involving the 4 - O - alpha - D - - D - an intermediate in the catabolism of glycogen and starch
+sugar metabolic process
+sugar metabolism
+metabolism
+*GO: alpha - 1 2 - activity
+of the transfer of a mannose residue to an forming an alpha - 1 - > 2 linkage
+*GO: ribosomal large subunit assembly
+The aggregation arrangement and together of constituent RNAs and proteins to form the large ribosomal subunit
+ribosomal subunit assembly
+ribosomal subunit assembly
+*GO: ribosomal small subunit assembly
+The aggregation arrangement and together of constituent RNAs and proteins to form the small ribosomal subunit
+ribosomal subunit assembly
+ribosomal subunit assembly
+*GO: activity
+of the transfer of a group to an acceptor molecule typically another carbohydrate or a lipid
+*GO: transferase activity
+of the transfer of a group from one compound to another
+*GO: cell wall biosynthetic process
+The chemical reactions and pathways resulting in the formation of cell wall any cell wall protein that contains covalently bound mannose residues
+cell wall
+cell wall biosynthesis
+cell wall formation
+cell wall synthesis
+*GO: alpha - 1 3 - activity
+of the transfer of a mannose residue to an forming an alpha - 1 - > 3 linkage
+*GO: ACP attachment site binding involved in fatty acid biosynthetic process
+Interacting selectively and non - covalently with the attachment site of the group of an acyl carrier protein ACP as part of the process of fatty acid biosynthesis
+acyl carrier activity
+*GO: very long - chain fatty acid metabolic process
+The chemical reactions and pathways involving a fatty acid which has a chain length greater than
+very long chain fatty acid metabolic process
+very - long - chain fatty acid metabolic process
+very - long - chain fatty acid metabolism
+*GO: plasma membrane long - chain fatty acid transporter
+was not defined before being made
+plasma membrane long - chain fatty acid transporter
+*GO: low - affinity iron ion transmembrane transport
+A process in which an iron ion is transported from one side of a membrane to the other by means of some agent such as a transporter or pore In low - affinity transport the transporter is able to bind the solute only if it is only present at very low concentrations
+low affinity iron ion transport
+low - affinity iron ion transport
+*GO: transition metal ion transport
+The directed movement of transition metal ions into out of or within a cell or between cells by means of some agent such as a transporter or pore A transition metal is an element whose has an incomplete d - of or which gives rise to a cation or with an incomplete d - Transition metals often have more than one state Biologically relevant transition metals include manganese iron copper cobalt nickel and silver
+transition metal transport
+*GO: protein targeting to Golgi
+The process of directing proteins towards the Golgi usually uses signals contained within the protein
+protein - Golgi targeting
+*GO: ascorbate stabilization
+The reduction of the ascorbate free radical to a stable form
+ascorbate stabilization
+vitamin C stabilization
+*GO: iron - sulfur protein
+was not defined before being made
+iron - sulfur protein
+iron - sulphur protein
+*GO: activity
+of the - tRNA 1 + - tRNA 2 = tRNA 1 + - tRNA 2
+tRNA tRNA N activity
+*GO: tRNA binding
+Interacting selectively and non - covalently with transfer RNA
+*GO: urea cycle intermediate metabolic process
+The chemical reactions and pathways involving any of the intermediate compounds involved in the urea cycle a cyclic metabolic pathway that converts waste nitrogen in the form of ammonium to urea
+urea cycle intermediate metabolic process
+urea cycle intermediate metabolism
+*GO: metabolic process
+The chemical reactions and pathways involving - - L - ornithine an alpha amino acid not found in proteins
+metabolism
+*GO: metabolic process
+The chemical reactions and pathways involving 2 - N - succinate an intermediate in the ornithine - urea cycle where it is synthesized from and aspartate
+metabolism
+*GO: ribosomal subunit export from nucleus
+The directed movement of a ribosomal subunit from the nucleus into the cytoplasm
+ribosomal subunit export from cell nucleus
+ribosomal subunit export out of nucleus
+ribosomal subunit transport from nucleus to cytoplasm
+ribosomal subunit - nucleus export
+ribosome export from nucleus
+*GO: ribosomal large subunit export from nucleus
+The directed movement of a ribosomal large subunit from the nucleus into the cytoplasm
+ribosomal subunit export from nucleus
+ribosomal subunit export from nucleus
+ribosomal large subunit export from cell nucleus
+ribosomal large subunit export out of nucleus
+ribosomal large subunit transport from nucleus to cytoplasm
+ribosomal large subunit - nucleus export
+*GO: ribosomal small subunit export from nucleus
+The directed movement of a ribosomal small subunit from the nucleus into the cytoplasm
+ribosomal subunit export from nucleus
+ribosomal subunit export from nucleus
+ribosomal small subunit export from cell nucleus
+ribosomal small subunit export out of nucleus
+ribosomal small subunit transport from nucleus to cytoplasm
+ribosomal small subunit - nucleus export
+*GO: protein import into nucleus docking
+A protein complex assembly process that contributes to protein import into the nucleus and that results in the association of a cargo protein a carrier protein such as an alpha beta and a located at the periphery of the nuclear pore complex
+protein docking during protein import into nucleus
+protein docking during protein transport from cytoplasm to nucleus
+protein docking during protein - nucleus import
+protein transport from cytoplasm to nucleus docking
+protein - nucleus import docking
+*GO: protein import into nucleus translocation
+A protein transport process that contributes to protein import into the nucleus and that results in the transfer of a cargo - carrier protein complex through the nuclear pore complex from the cytoplasmic side to the side of the nuclear envelope
+protein import into cell nucleus translocation
+protein translocation during protein import into nucleus
+protein translocation during protein transport from cytoplasm to nucleus
+protein translocation during protein - nucleus import
+protein transport from cytoplasm to nucleus translocation
+protein - nucleus import translocation
+*GO: protein import into nucleus substrate release
+A protein complex disassembly process that contributes to protein import into the nucleus and that results in the dissociation of the cargo protein and the carrier such as an alpha beta from each other and from the nuclear pore complex
+protein import into cell nucleus substrate release
+protein substrate release during protein import into nucleus
+protein substrate release during protein transport from cytoplasm to nucleus
+protein substrate release during protein - nucleus import
+protein transport from cytoplasm to nucleus substrate release
+protein - nucleus import substrate release
+*GO: fatty - acyl - CoA binding
+Interacting selectively and non - covalently with acyl - CoA any derivative of coenzyme A in which the group is in linkage with a fatty acyl group
+acyl - CoA or acyl binding
+*GO: L - ornithine transmembrane transporter activity
+the transfer of L - ornithine from one side of a membrane to the other L - ornithine is 2 5 - acid
+histidine arginine lysine ornithine activity
+L - ornithine transporter activity
+*GO: mitochondrial ornithine transport
+The directed movement of ornithine 2 5 - acid into out of or within a mitochondrion
+*GO: DNA replication and chromosome cycle
+was not defined before being made
+DNA replication and chromosome cycle
+*GO: mitotic sister segregation
+The cell cycle process in which replicated homologous chromosomes are organized and then physically separated and to two sets during the mitotic cell cycle Each replicated chromosome composed of two sister aligns at the cell paired with its homologous partner One homolog of each morphologic type goes into each of the resulting chromosome sets
+mitotic chromosome segregation
+mitotic sister - adhesion release
+*GO: M phase specific microtubule process
+A microtubule - based process that occurs only during M phase of the cell cycle
+M phase specific microtubule process
+M - phase specific microtubule process
+*GO: spindle pole body separation
+A largely uncharacterized process involving the release of duplicated spindle pole bodies and their migration away from each other within the nuclear membrane are connected by a bridge structure that may be in order to release the from one another Following diffuse through the nuclear membrane until they are across from each other separation must take place in order for a bipolar mitotic spindle to assemble
+*GO: DNA replication checkpoint
+A cell cycle checkpoint that prevents the initiation of nuclear division until DNA replication is complete thereby ensuring that progeny a full complement of the genome
+*GO: DNA damage checkpoint
+A cell cycle checkpoint that regulates progression through the cell cycle in response to DNA damage A DNA damage checkpoint may blocks cell cycle progression in G1 G2 or metaphase or slow the rate at which S phase proceeds
+DNA damage response signal transduction resulting in cell cycle arrest
+*GO: cytokinesis after mitosis checkpoint
+A mitotic cell cycle checkpoint that detects whether chromosome segregation is complete and negatively regulates cytokinesis following mitosis
+cell morphogenesis checkpoint
+cell shape checkpoint
+*GO: regulation of cyclin - dependent protein serine threonine kinase activity
+Any process that modulates the frequency rate or extent of cyclin - dependent protein serine threonine kinase activity
+regulation of activity
+regulation of cyclin - dependent protein kinase activity
+*GO: mitotic G1 phase
+The cell cycle gap phase which is the interval between the completion of DNA segregation by mitosis and the beginning of DNA synthesis
+G1 phase of mitotic cell cycle
+*GO: G1 S transition of mitotic cell cycle
+The mitotic cell cycle transition by which a cell in G1 to S phase The process begins with the build up of G1 cyclin - dependent kinase G1 resulting in the activation of transcription of G1 cyclins The process ends with the positive feedback of the G1 cyclins on the G1 which the cell to S phase in which DNA replication is initiated
+*GO: regulation of transcription involved in G1 S transition of mitotic cell cycle
+Any process that regulates transcription such that the target genes are involved in the transition between G1 and S phase of the mitotic cell cycle

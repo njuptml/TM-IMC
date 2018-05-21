@@ -1,0 +1,968 @@
+*GPCR: Apelin receptor
+Zebrafish
+Developmental protein G protein coupled receptor Receptor
+1 Apelin and its receptor control heart field formation during zebrafish gastrulation
+3 The G protein coupled receptor regulates early development of myocardial progenitors
+4 Apelin and its G protein coupled receptor regulate cardiac development as well as cardiac function
+5 a hormone essential for heart development signals via the apelin receptor
+6 an embryonic signal that promotes cell movement via apelin receptors
+*GPCR: N glycine receptor
+Rat
+G protein coupled receptor Receptor
+1 The status quality and expansion of the NIH full length cDNA the Mammalian Gene
+*GPCR: rich repeat containing G protein coupled receptor 4 precursor
+Mouse
+Developmental protein G protein coupled receptor Receptor
+1 specific biology revealed by a genome assembly of the mouse
+2 The G protein coupled receptor repertoires of human and mouse
+3 The transcriptional landscape of the mammalian genome
+4 The status quality and expansion of the NIH full length cDNA the Mammalian Gene
+5 rich repeat containing G protein coupled receptor 4 null mice exhibit growth retardation associated with embryonic and perinatal lethality
+6 Defective postnatal development of the male reproductive tract in LGR4 knockout mice
+7 rich repeat containing G protein coupled receptor 4 LGR4 Gpr48 is essential for renal development in mice
+8 LGR4 regulates the postnatal development and integrity of male reproductive in mice
+9 Eye open at birth phenotype with reduced keratinocyte motility in LGR4 null mice
+10 Impaired hair formation with reduced expression of hair follicle related genes in mice lacking Lgr4
+11 Inactivation of G protein coupled receptor 48 Gpr48 Lgr4 impairs definitive at midgestation through down regulation of the signaling pathway
+12 Deletion of G protein coupled receptor 48 leads to ocular anterior segment through down regulation of
+13 Regulation of bone formation and remodeling by G protein coupled receptor 48
+14 Reduced fertility with impairment of early stage embryos observed in mice lacking Lgr4 in epithelial tissues
+15 Lgr4 deficient mice showed premature differentiation of bud with reduced expression of Wnt effector and
+16 Lgr4 is required for cell differentiation and maintenance of intestinal stem cells ex vivo
+17 Lgr5 homologues associate with Wnt receptors and mediate R signalling
+18 R function as ligands of the orphan receptors LGR4 and LGR5 to regulate Wnt beta signaling
+19 Lgr4 mediated Wnt beta signaling in cells is essential for
+20 Lgr4 gene deficiency increases susceptibility and severity of dextran sodium sulfate induced inflammatory bowel disease in mice
+21 Lgr4 Gpr48 negatively regulates 4 associated pattern recognition and innate immunity by targeting expression
+22 functional is a ligand for the LGR4 receptor
+23 LGR4 acts as a link between the peripheral circadian clock and lipid metabolism in liver
+*GPCR: Formyl peptide receptor related sequence 4
+Mouse
+G protein coupled receptor Receptor
+1 Differential expansion of the N formylpeptide receptor gene cluster in human and mouse
+2 specific biology revealed by a genome assembly of the mouse
+3 The status quality and expansion of the NIH full length cDNA the Mammalian Gene
+4 Formyl peptide receptor like proteins are a novel family of vomeronasal
+5 Formyl peptide receptors are candidate chemosensory receptors in the vomeronasal organ
+*GPCR: Olfactory receptor
+Homo Human
+G protein coupled receptor Receptor
+1 Human chromosome 11 DNA sequence and analysis including novel gene identification
+2 The status quality and expansion of the NIH full length cDNA the Mammalian Gene
+3 The human olfactory receptor gene family
+*GPCR: Melanocortin receptor 4
+Zebrafish
+G protein coupled receptor Receptor
+1 One melanocortin 4 and two melanocortin 5 receptors from zebrafish show remarkable conservation in structure and pharmacology
+2 The structure and evolution of the melanocortin and MCH receptors in fish and mammals
+3 The zebrafish reference genome sequence and its relationship to the human genome
+5 Developmental control of the melanocortin 4 receptor by MRAP2 proteins in zebrafish
+*GPCR: Free fatty acid receptor 3
+Rat
+G protein coupled receptor Receptor
+1 Genome sequence of the Brown rat yields insights into mammalian evolution
+3 The status quality and expansion of the NIH full length cDNA the Mammalian Gene
+4 The orphan G protein coupled receptors GPR41 and GPR43 are activated by propionate and other short chain carboxylic acids
+5 beta modulates N type calcium channels in rat sympathetic neurons by acting as an agonist for the G protein coupled receptor FFA3
+6 generated metabolites promote metabolic benefits via gut brain neural circuits
+*GPCR: Olfactory receptor
+Homo Human
+G protein coupled receptor Receptor
+1 The status quality and expansion of the NIH full length cDNA the Mammalian Gene
+*GPCR: G protein coupled receptor
+Mouse
+Developmental protein G protein coupled receptor Receptor
+1 The orphan G protein coupled receptor Gpr161 encodes the vacuolated lens locus and controls and lens development
+2 specific biology revealed by a genome assembly of the mouse
+3 The status quality and expansion of the NIH full length cDNA the Mammalian Gene
+4 The G protein coupled receptor repertoires of human and mouse
+5 The ciliary G protein coupled receptor Gpr161 negatively regulates the Sonic Hedgehog pathway via cAMP signaling
+*GPCR: Pheromone alpha factor receptor
+Saccharomyces cerevisiae strain yeast
+G protein coupled receptor Receptor
+1 sequences of STE2 and cell type specific genes from Saccharomyces cerevisiae
+2 The yeast alpha factor receptor: structural properties deduced from the sequence of the STE2 gene
+3 Differential evolution of the Saccharomyces cerevisiae and implication of recombination in phylogeny
+4 Analysis of the nucleotide sequence of chromosome VI from Saccharomyces cerevisiae
+5 The reference genome sequence of Saccharomyces Then and now
+6 a complete of sequence verified protein encoding clones for Saccharomyces cerevisiae
+7 Mutational analysis of the role of N glycosylation in alpha factor receptor function
+8 Quantitative applied to the yeast pheromone signaling pathway
+9 Large scale phosphorylation analysis of alpha factor arrested Saccharomyces cerevisiae
+10 A multidimensional chromatography technology for in depth analysis
+11 Global analysis of substrate phosphorylation sites provides insights into evolution
+12 Sites of ubiquitin attachment in Saccharomyces cerevisiae
+*GPCR: Adhesion G protein coupled receptor precursor
+Mouse
+Membrane
+1 specific biology revealed by a genome assembly of the mouse
+2 The status quality and expansion of the NIH full length cDNA the Mammalian Gene
+3 Characterization and functional study of a cluster of four highly conserved orphan adhesion GPCR in mouse
+*GPCR: glycoprotein US27
+Human cytomegalovirus strain 5
+G protein coupled receptor Receptor
+1 Homology between the human cytomegalovirus gene family and human adenovirus E3 genes
+2 Two novel spliced genes in human cytomegalovirus
+3 The most abundantly transcribed human cytomegalovirus gene beta 27 is non essential for growth in vitro
+4 Genetic content of wild type human cytomegalovirus
+5 Human cytomegalovirus pUS27 G protein coupled receptor homologue is required for efficient spread by the extracellular route but not for direct cell to cell spread
+*GPCR: rich repeat containing G protein coupled receptor 5 precursor
+Xenopus tropicalis Western frog
+G protein coupled receptor Receptor
+1 The genome of the Western frog Xenopus tropicalis
+2 LGR4 and LGR5 are R receptors mediating Wnt beta and Wnt PCP signalling
+12 S acid receptor
+*GPCR: Mouse
+G protein coupled receptor Receptor
+1 intronless and mutant transcription units in the mouse complex locus
+2 specific biology revealed by a genome assembly of the mouse
+*GPCR: Adhesion G protein coupled receptor precursor
+Mouse
+Cell membrane Membrane
+1 specific biology revealed by a genome assembly of the mouse
+3 A tissue specific atlas of mouse protein phosphorylation and expression
+4 Characterization and functional study of a cluster of four highly conserved orphan adhesion GPCR in mouse
+5 tissue deletion of impairs insulin sensitivity through modulation of adipose function
+6 Essential regulation of lung surfactant homeostasis by the orphan G protein coupled receptor GPR116
+7 Orphan G protein coupled receptor GPR116 regulates pulmonary surfactant pool size
+8 Lung surfactant levels are regulated by GPR116 by monitoring surfactant protein D
+*GPCR: Frizzled 9 precursor
+Homo Human
+Developmental protein G protein coupled receptor Receptor
+1 A novel human homologue of the Drosophila frizzled receptor gene binds protein and is in the Williams syndrome deletion at
+2 The DNA sequence of human chromosome 7
+3 A novel frizzled gene identified in human esophageal carcinoma mediates beta signals
+*GPCR: G protein coupled receptor 25
+Homo Human
+G protein coupled receptor Receptor
+1 Discovery of a novel human G protein coupled receptor gene located on chromosome 1
+3 The status quality and expansion of the NIH full length cDNA the Mammalian Gene
+*GPCR: Metabotropic glutamate receptor 8 precursor
+Homo Human
+G protein coupled receptor Receptor
+1 The human metabotropic glutamate receptor 8 a large gene located at
+2 Group III human metabotropic glutamate receptors 4 7 and molecular cloning functional expression and comparison of pharmacological properties in cells
+3 Cloning and functional expression of alternative spliced variants of the human metabotropic glutamate receptor 8
+4 Homo metabotropic glutamate receptor
+7 The DNA sequence of human chromosome 7
+8 The status quality and expansion of the NIH full length cDNA the Mammalian Gene
+*GPCR: activated receptor 3 precursor
+Homo Human
+G protein coupled receptor Receptor
+1 Protease activated receptor 3 is a second thrombin receptor in humans
+2 sequencing and characterization of full length human cDNAs
+3 The full ORF clone resource of the German cDNA
+5 The DNA sequence and comparative analysis of human chromosome 5
+7 The status quality and expansion of the NIH full length cDNA the Mammalian Gene
+8 The human proteinase activated receptor 3 PAR 3 gene Identification within a PAR gene cluster and characterization in vascular endothelial cells and platelets
+9 Protease activated receptors 1 and 4 mediate activation of human platelets by thrombin
+10 Two forms of human related protein that links to the Pins homologues and AGS3
+*GPCR: Putative P2Y 10
+Homo Human
+G protein coupled receptor Receptor
+1 Putative purinergic receptor related to and is localized on the X chromosome
+2 cDNA clones of human proteins involved in signal transduction sequenced by the cDNA resource center
+3 The DNA sequence of the human X chromosome
+5 The status quality and expansion of the NIH full length cDNA the Mammalian Gene
+6 Expression of purinergic receptors ionotropic P2X1 7 and metabotropic P2Y1 11 during myeloid differentiation of HL60 cells
+*GPCR: C C chemokine receptor like 2
+Homo Human
+G protein coupled receptor Receptor
+1 Cloning and characterization of a novel human chemokine receptor
+2 analysis of a gene cluster containing CCR5 and a new member of chemokine receptor gene family
+3 a novel human chemokine receptor like gene expressed in activated monocytes
+4 Cloning and characterisation of a new 1 chemokine receptor
+5 sequencing and characterization of full length human cDNAs
+6 cDNA clones of human proteins involved in signal transduction sequenced by the cDNA resource center
+7 The DNA sequence annotation and analysis of human chromosome 3
+8 The status quality and expansion of the NIH full length cDNA the Mammalian Gene
+9 Distribution and regulation of expression of the putative human chemokine receptor in leukocyte populations
+10 Up regulated expression and activation of the orphan chemokine receptor in rheumatoid arthritis
+11 Human B cells express the orphan chemokine receptor A B in a maturation stage dependent and CCL5 modulated manner
+12 is a specific ligand of the constitutively recycling atypical human chemokine receptor B
+*GPCR: C X C chemokine receptor type 6
+Homo Human
+G protein coupled receptor Receptor
+1 Expression cloning of new receptors used by simian and human immunodeficiency viruses
+2 STRL33 A novel chemokine receptor like protein functions as a fusion cofactor for both macrophage tropic and T cell line tropic HIV 1
+3 a putative chemokine receptor selectively expressed in activated T cells exhibits HIV 1 coreceptor function
+4 The influence of a STRL33 mutant on the course of HIV 1 infection
+5 cDNA clones of human proteins involved in signal transduction sequenced by the cDNA resource center
+6 The status quality and expansion of the NIH full length cDNA the Mammalian Gene
+*GPCR: Atypical chemokine receptor 2
+Homo Human
+G protein coupled receptor Receptor
+1 Cloning expression and chromosomal mapping of a novel human CC chemokine receptor that displays high affinity binding for 1 and 3
+2 Cloning and characterization of a novel promiscuous human beta chemokine receptor
+3 cDNA clones of human proteins involved in signal transduction sequenced by the cDNA resource center
+4 Cloning of human full length in system donor vector
+5 sequencing and characterization of full length human cDNAs
+6 The status quality and expansion of the NIH full length cDNA the Mammalian Gene
+7 The beta chemokine receptor is expressed by lymphatic endothelium and a subset of vascular tumors
+8 Multiple roles for the C terminal tail of the chemokine scavenger
+10 Chemokine decoy receptors: structure function and biological properties
+11 The atypical chemokine receptor controls macrophage and cytokine secretion during the resolution of inflammation
+12 The biochemistry and biology of the atypical chemokine receptors
+13 Atypical chemokine receptors: from to sound
+14 An analysis of the function and expression of on lymphatic endothelial cells
+15 Regulation of the immune and inflammatory responses by the atypical chemokine receptor
+16 Structure function and biological properties of the atypical chemokine receptor
+17 Beta arrestin dependent activation of the cofilin pathway is required for the scavenging activity of the atypical chemokine receptor
+*GPCR: receptor Ser 2
+Caenorhabditis elegans
+G protein coupled receptor Receptor
+1 Genome sequence of the nematode C a platform for investigating biology
+2 Characterization of a tyramine receptor from Caenorhabditis elegans
+3 gene dependent expression of biogenic amine receptors in restricted regions of the C elegans nervous system
+*GPCR: G protein coupled receptor 1
+Arabidopsis thaliana Mouse ear
+G protein coupled receptor Receptor
+1 Cloning of a putative G protein coupled receptor from Arabidopsis thaliana
+2 A higher plant seven transmembrane receptor that influences sensitivity to
+3 Sequence and analysis of chromosome 1 of the plant Arabidopsis thaliana
+5 analysis of transcriptional activity in the Arabidopsis genome
+6 Large scale analysis of RIKEN Arabidopsis full length cDNAs
+7 evaluation of the receptor role of the Arabidopsis gene GCR1
+8 GCR1 the putative Arabidopsis G protein coupled receptor gene is cell cycle regulated and its overexpression abolishes seed and time to
+9 The G protein coupled receptor GCR1 regulates DNA synthesis through activation of phosphatidylinositol specific phospholipase C
+10 The Arabidopsis putative G protein coupled receptor GCR1 interacts with the G protein alpha subunit and regulates abscisic acid signaling
+11 GCR1 can act independently of heterotrimeric G protein in response to and in Arabidopsis seed germination
+12 G protein coupled receptor 1 G protein Galpha subunit 1 and 1 are required for blue light induced production of phenylalanine in Arabidopsis
+13 G protein complex mutants are hypersensitive to abscisic acid regulation of germination and development
+14 The GCR1 Y signal chain mediates both blue light and abscisic acid responses in Arabidopsis
+15 Comparative large scale characterisation of plant vs proteins reveals similar and N alpha acetylation features
+*GPCR: Sphingosine 1 phosphate receptor 1
+Mouse
+G protein coupled receptor Receptor
+1 The mouse gene for the inducible G protein coupled receptor 1
+2 Comparative analysis of three murine G protein coupled receptors activated by sphingosine 1 phosphate
+3 The transcriptional landscape of the mammalian genome
+5 The status quality and expansion of the NIH full length cDNA the Mammalian Gene
+6 Edg 1 the G protein coupled receptor for sphingosine 1 phosphate is essential for vascular maturation
+7 EDG 1 links the PDGF receptor to Src and focal adhesion kinase activation leading to lamellipodia formation and cell migration
+8 Role of the sphingosine 1 phosphate receptor EDG 1 in PDGF induced cell motility
+9 G protein coupled receptor S1P1 acts within endothelial cells to regulate vascular maturation
+10 Expression of the sphingosine 1 phosphate receptor S1P1 on T cells controls
+11 egress from and peripheral lymphoid organs is dependent on S1P receptor 1
+12 Large scale phosphorylation analysis of mouse liver
+13 Akt mediated transactivation of the S1P1 receptor in caveolin enriched microdomains regulates endothelial barrier enhancement by oxidized phospholipids
+14 Sphingosine 1 phosphate mobilizes osteoclast precursors and regulates bone homeostasis
+15 A tissue specific atlas of mouse protein phosphorylation and expression
+16 The Sphingosine 1 receptor 1 mediates S1P action during cardiac development
+17 S1P1 inhibits angiogenesis during vascular development
+18 mediated lysine impacts diverse metabolic pathways
+*GPCR: Mouse
+G protein coupled receptor Receptor
+1 Cloning and characterization of a novel murine beta chemokine receptor Comparison to three other related macrophage inflammatory protein 1alpha receptors 1 3 and 5
+2 The transcriptional landscape of the mammalian genome
+4 The status quality and expansion of the NIH full length cDNA the Mammalian Gene
+5 The atypical chemokine receptor controls macrophage and cytokine secretion during the resolution of inflammation
+6 Regulation of the immune and inflammatory responses by the atypical chemokine receptor
+*GPCR: Growth hormone secretagogue receptor type 1
+Rat
+G protein coupled receptor Receptor
+1 Molecular analysis of rat pituitary and hypothalamic growth hormone secretagogue receptors
+2 Molecular cloning and gene expression of growth hormone releasing peptide receptor in rat tissues
+3 Ghrelin is a growth hormone releasing acylated peptide from stomach
+*GPCR: Galanin receptor type 2
+Rat
+G protein coupled receptor Receptor
+1 Molecular cloning and characterization of a new receptor for galanin
+2 Expression cloning of a rat hypothalamic galanin receptor coupled to phosphoinositide turnover
+3 Molecular cloning and pharmacological characterization of a new galanin receptor subtype
+4 Cloning pharmacological characterization and distribution of a novel galanin receptor
+*GPCR: Cholecystokinin receptor type A
+Mouse
+G protein coupled receptor Receptor
+1 Mouse cholecystokinin type A receptor gene and its structural analysis
+2 Molecular structure of the mouse CCK A receptor gene
+3 The transcriptional landscape of the mammalian genome
+4 The status quality and expansion of the NIH full length cDNA the Mammalian Gene
+5 A tissue specific atlas of mouse protein phosphorylation and expression
+*GPCR: Formyl peptide receptor related sequence 1
+Mouse
+G protein coupled receptor Receptor
+1 triggered 15 lipoxin A4 LXA4 and LXA4 stable analogues are potent inhibitors of acute evidence for anti inflammatory receptors
+2 Differential expansion of the N formylpeptide receptor gene cluster in human and mouse
+3 Formyl peptide receptor like proteins are a novel family of vomeronasal
+4 Formyl peptide receptors are candidate chemosensory receptors in the vomeronasal organ
+*GPCR: Somatostatin receptor type 5
+Mouse
+G protein coupled receptor Receptor
+1 Isolation and characterization of the gene encoding the type 5 mouse somatostatin receptor
+5 The transcriptional landscape of the mammalian genome
+6 specific biology revealed by a genome assembly of the mouse
+7 The status quality and expansion of the NIH full length cDNA the Mammalian Gene
+8 Somatostatin receptor 5 is palmitoylated by the interacting
+*GPCR: G protein coupled estrogen receptor 1
+Rat
+G protein coupled receptor Receptor
+1 Molecular cloning and tissue expression of a novel orphan G protein coupled receptor from rat lung
+2 G protein coupled receptor 30 is an estrogen receptor in the plasma membrane
+3 Expression of G protein coupled receptor 30 a G protein coupled membrane estrogen receptor in oxytocin neurons of the rat paraventricular and nuclei
+4 Regulatory role of G protein coupled estrogen receptor for vascular function and obesity
+5 of GPR30 a novel G protein coupled oestrogen receptor suggests multiple functions in rodent brain and peripheral tissues
+6 17 beta estradiol activates rapid signaling pathways involved in rat apoptosis through GPR30 and ER alpha
+7 GPR30 expression is required for the receptor independent rapid vascular effects of aldosterone
+8 transport of the transmembrane estrogen receptor G protein coupled receptor 30 GPR30 GPER from the plasma membrane towards the nucleus
+9 Estrogen receptors are found in glia and at neuronal sites in the dorsal striatum of female evidence for cholinergic but not dopaminergic colocalization
+10 Role of and GPR30 in the endocrine A matter of estrogen dose
+11 mediates its rapid effects in vascular endothelial cells through GPER activation
+12 Post synaptic density 95 95 binding capacity of G protein coupled receptor 30 GPR30 an estrogen receptor that can be identified in hippocampal dendritic spines
+13 GPER 1: trials and of a membrane oestrogen receptor
+*GPCR: C3a anaphylatoxin chemotactic receptor
+Mouse
+G protein coupled receptor Receptor
+1 The mouse anaphylatoxin C3a receptor: molecular cloning genomic organization and functional expression
+2 Cloning and functional characterization of the mouse C3a anaphylatoxin receptor gene
+3 Cloning expression sequence determination and chromosome localization of the mouse complement C3a anaphylatoxin receptor gene
+4 The status quality and expansion of the NIH full length cDNA the Mammalian Gene
+5 A tissue specific atlas of mouse protein phosphorylation and expression
+*GPCR: G protein coupled receptor homolog
+Rat cytomegalovirus strain
+G protein coupled receptor Receptor
+1 The G protein coupled receptor gene of rat cytomegalovirus plays an essential role in the pathogenesis of viral infection
+2 DNA sequence of the rat cytomegalovirus genome
+*GPCR: Red sensitive opsin
+Xenopus laevis African frog
+G protein coupled receptor protein Receptor Retinal protein
+1 Sequential genesis and determination of cone and rod photoreceptors in Xenopus
+*GPCR: Vertebrate ancient opsin
+Atlantic salmon
+G protein coupled receptor protein Receptor Retinal protein
+1 A novel and ancient vertebrate opsin
+*GPCR: Adenosine receptor
+G protein coupled receptor Receptor
+1 The chicken adenosine receptor 2B gene is regulated by
+2 Analysis of I hypersensitive sites in the chromatin of the chicken adenosine receptor 2B gene reveals multiple cell type specific cis regulatory elements
+*GPCR: Short wave sensitive opsin 1
+squirrel monkey
+G protein coupled receptor protein Receptor Retinal protein
+1 Sequences and evolution of human and squirrel monkey blue opsin genes
+*GPCR: sensitive opsin
+G protein coupled receptor protein Receptor Retinal protein
+1 spectra and molecular structure of the blue sensitive rod visual pigment in the
+*GPCR: Brain specific angiogenesis inhibitor 1 precursor
+Homo Human
+G protein coupled receptor Receptor
+1 A novel brain specific p53 target gene BAI1 containing type 1 repeats inhibits experimental angiogenesis
+2 DNA sequence and analysis of human chromosome 8
+3 Cloning and characterization of associated protein 1: a PDZ domain containing protein that interacts with BAI1
+4 Identification of associated protein 2 a novel human homologue of hamster whose SH3 domain interacts with the cytoplasmic domain of BAI1
+5 Interaction of the tumor suppressor PTEN with a PDZ domain of a novel membrane associated guanylate kinase
+6 Overexpression of the p53 inducible brain specific angiogenesis inhibitor 1 suppresses efficiently tumour angiogenesis
+7 Brain specific angiogenesis inhibitor 1 BAI1 is expressed in human cerebral neuronal cells
+8 Brain angiogenesis inhibitor 1 is differentially expressed in normal brain and glioblastoma independently of p53 expression
+9 A novel evolutionarily conserved domain of cell adhesion GPCRs mediates autoproteolysis
+*GPCR: Olfactory receptor
+Homo Human
+G protein coupled receptor Receptor
+1 The DNA sequence and biology of human chromosome 19
+2 The status quality and expansion of the NIH full length cDNA the Mammalian Gene
+3 a practical scheme for deciphering families of genes
+4 The human olfactory receptor gene family
+*GPCR: G protein coupled receptor 171
+Free fatty acid receptor 1
+Homo Human
+G protein coupled receptor Receptor
+1 A cluster of four novel human G protein coupled receptor genes occurring in close proximity to gene on chromosome
+2 The status quality and expansion of the NIH full length cDNA the Mammalian Gene
+3 The orphan G protein coupled receptor GPR40 is activated by medium and long chain fatty acids
+4 GPR40 gene expression in human pancreas and
+5 Identification of residues important for agonist recognition and activation in GPR40
+6 Two arginine glutamate ionic near the extracellular surface of gate receptor activation
+7 acid and acid branched chain fatty acids associated with disease and other inherited disorders mediate intracellular Ca2+ signaling through activation of free fatty acid receptor GPR40
+8 A novel antidiabetic drug acts as an ago allosteric modulator of
+9 High resolution structure of the human GPR40 receptor bound to allosteric agonist
+*GPCR: Free fatty acid receptor 3
+Homo Human
+G protein coupled receptor Receptor
+1 A cluster of four novel human G protein coupled receptor genes occurring in close proximity to gene on chromosome
+2 The DNA sequence and biology of human chromosome 19
+3 The status quality and expansion of the NIH full length cDNA the Mammalian Gene
+4 The orphan G protein coupled receptors GPR41 and GPR43 are activated by propionate and other short chain carboxylic acids
+5 Functional characterization of human receptors for short chain fatty acids and their role in polymorphonuclear cell activation
+6 Conserved polar residues in transmembrane domains V VI and VII of free fatty acid receptor 2 and free fatty acid receptor 3 are required for the binding and function of short chain fatty acids
+7 Sequence polymorphisms provide a common consensus sequence for GPR41 and
+8 Short chain fatty acids and directly regulate sympathetic nervous system via G protein coupled receptor 41 GPR41
+9 Extracellular ionic determine variation in constitutive activity and ligand potency between species orthologs of the free fatty acid receptors FFA2 and FFA3
+G protein coupled receptor
+*GPCR: Homo Human
+G protein coupled receptor Receptor
+1 Molecular cloning of a novel human receptor gene with homology to the rat adrenomedullin receptor and high expression in heart and immune system
+2 cDNA clones of human proteins involved in signal transduction sequenced by the cDNA resource center
+3 The status quality and expansion of the NIH full length cDNA the Mammalian Gene
+4 Expression of the rat adrenomedullin receptor or a putative human adrenomedullin receptor does not correlate with adrenomedullin binding or functional response
+*GPCR: Metabotropic glutamate receptor 6 precursor
+Homo Human
+G protein coupled receptor Receptor
+1 The whole nucleotide sequence and chromosomal localization of the gene for human metabotropic glutamate receptor subtype 6
+2 The DNA sequence and comparative analysis of human chromosome 5
+3 Metabotropic glutamate receptor 6 signaling enhances calcium channel function and increases melanin content in human melanocytes
+4 blindness and abnormal cone ON responses in patients with mutations in the gene encoding
+5 The consensus coding sequences of human breast and colorectal cancers
+6 blindness associated mutations in the ligand binding cysteine rich and intracellular domains of the metabotropic glutamate receptor 6 abolish protein trafficking
+7 and phenotype of 101 patients with congenital stationary night blindness
+*GPCR: receptor GPR37 precursor
+Homo Human
+G protein coupled receptor Receptor
+1 Cloning of GPR37 a gene located on chromosome 7 encoding a putative G protein coupled peptide receptor from a human frontal brain EST library
+2 A human gene encodes a putative G protein coupled receptor highly expressed in the central nervous system
+3 A novel endothelin receptor type B like gene enriched in the brain
+4 An unfolded putative transmembrane polypeptide which can lead to endoplasmic reticulum stress is a substrate of
+5 The DNA sequence of human chromosome 7
+6 Human chromosome DNA sequence and biology
+8 The status quality and expansion of the NIH full length cDNA the Mammalian Gene
+9 is associated with a gene responsible for familial disease and enhances its ubiquitin ligase activity
+10 A product of the human gene adjacent to is a component of bodies and suppresses receptor induced cell death
+11 A ubiquitin ligase promotes the degradation of receptor a substrate of
+12 GPR37 and GPR37L1 are receptors for the neuroprotective and factors and prosaposin
+*GPCR: G protein coupled receptor 42
+Homo Human
+G protein coupled receptor Receptor
+1 A cluster of four novel human G protein coupled receptor genes occurring in close proximity to gene on chromosome
+2 The DNA sequence and biology of human chromosome 19
+3 The orphan G protein coupled receptors GPR41 and GPR43 are activated by propionate and other short chain carboxylic acids
+4 Sequence polymorphisms provide a common consensus sequence for GPR41 and
+*GPCR: Free fatty acid receptor 2
+Homo Human
+G protein coupled receptor Receptor
+1 A cluster of four novel human G protein coupled receptor genes occurring in close proximity to gene on chromosome
+2 The DNA sequence and biology of human chromosome 19
+4 The status quality and expansion of the NIH full length cDNA the Mammalian Gene
+5 Identification of a free fatty acid receptor expressed on leukocytes and activated by short chain fatty acids
+6 The orphan G protein coupled receptors GPR41 and GPR43 are activated by propionate and other short chain carboxylic acids
+7 Functional characterization of human receptors for short chain fatty acids and their role in polymorphonuclear cell activation
+8 Conserved polar residues in transmembrane domains V VI and VII of free fatty acid receptor 2 and free fatty acid receptor 3 are required for the binding and function of short chain fatty acids
+9 Allosteric rescuing of loss of function FFAR2 mutations
+10 M anchors onto monocyte transmembrane G protein coupled receptor 43 and cross with plasma C reactive protein to mediate immune signaling and regulate host defense
+11 Mutational analysis of G protein coupled receptor FFA2
+12 Extracellular ionic determine variation in constitutive activity and ligand potency between species orthologs of the free fatty acid receptors FFA2 and FFA3
+13 Defining the molecular basis for the first potent and selective orthosteric agonists of the FFA2 free fatty acid receptor
+*GPCR: Mouse
+Developmental protein G protein coupled receptor Receptor
+1 is an evolutionarily conserved seven pass transmembrane receptor and is expressed during mouse embryonic development
+2 specific biology revealed by a genome assembly of the mouse
+3 a neural specific gene encoding an unusual seven pass transmembrane receptor maps to mouse chromosome 15 and human chromosome
+4 Developmental expression profiles of genes in the mouse
+5 A tissue specific atlas of mouse protein phosphorylation and expression
+*GPCR: C C chemokine receptor like 2
+Mouse
+G protein coupled receptor Receptor
+1 A novel lipopolysaccharide inducible C C chemokine receptor related gene in murine macrophages
+2 LPS induced expression of a novel chemokine receptor L in mouse glial cells in vitro and in vivo
+3 RANTES and eotaxin stimulate chemotaxis chemokine cytokine synthesis and receptor modulation in murine
+4 The transcriptional landscape of the mammalian genome
+5 Cloning of mouse full open reading frames in system entry vector
+6 The status quality and expansion of the NIH full length cDNA the Mammalian Gene
+7 Expression of L in HEK 293 cells reveals functional responses to CCL2 CCL5 and
+8 Induction of glial L mRNA expression in spinal cord and brain in experimental autoimmune encephalomyelitis
+9 Localization and enhanced mRNA expression of the orphan chemokine receptor L in the lung in a murine model of induced airway inflammation
+10 Mast cell expressed orphan receptor binds chemerin and is required for optimal induction of IgE mediated passive cutaneous
+11 role of in lung dendritic cell trafficking
+*GPCR: wave sensitive opsin 1
+Glucagon like peptide 1 receptor precursor
+G protein coupled receptor Receptor
+1 Mouse pancreatic beta cells exhibit preserved glucose after disruption of the glucagon like peptide 1 receptor gene
+2 Quantitative loci for carbohydrate and total energy intake on mouse chromosome congenic strain confirmation and candidate gene analyses
+3 Identification and characterization of glucagon like peptide 1 receptors in a pituitary ACTH secreting cell line
+4 specific biology revealed by a genome assembly of the mouse
+5 The status quality and expansion of the NIH full length cDNA the Mammalian Gene
+*GPCR: Rhodopsin
+John
+G protein coupled receptor protein Receptor Retinal protein
+receptor
+Homo Human
+G protein coupled receptor Receptor
+1 Cloning and characterization of two human G protein coupled receptor genes and GPR39 related to the growth hormone secretagogue and neurotensin receptors
+2 Receptor for identified in the human gastrointestinal system
+3 cDNA clones of human proteins involved in signal transduction sequenced by the cDNA resource center
+4 The DNA sequence and analysis of human chromosome 13
+5 Growth hormone secretagogue receptor family members and ligands
+*GPCR: G protein coupled receptor 39
+Homo Human
+G protein coupled receptor Receptor
+1 Cloning and characterization of two human G protein coupled receptor genes and GPR39 related to the growth hormone secretagogue and neurotensin receptors
+2 Isolation of cDNA coding for Homo G protein coupled receptor 39 GPR39
+3 sequencing and characterization of full length human cDNAs
+4 Generation and annotation of the DNA sequences of human chromosomes 2 and 4
+5 The status quality and expansion of the NIH full length cDNA the Mammalian Gene
+6 A second disulfide bridge from the N terminal domain to extracellular loop 2 receptor activity in GPR39
+7 Molecular mechanism of agonism in the extracellular domain of GPR39
+8 An enzyme assisted approach for in depth analysis of human liver
+*GPCR: Galanin receptor type 2
+Homo Human
+G protein coupled receptor Receptor
+1 Cloning and expression of the human galanin receptor GalR2
+2 Cloning and characterization of the human galanin GALR2 receptor
+3 Molecular characterization pharmacological properties and chromosomal localization of the human GALR2 galanin receptor
+4 Molecular characterization and expression of cloned human galanin receptors GALR2 and
+7 The status quality and expansion of the NIH full length cDNA the Mammalian Gene
+8 of the galanin kisspeptin family: activates galanin receptor type II and III
+*GPCR: Orexin receptor type 1
+Homo Human
+G protein coupled receptor Receptor
+1 and orexin receptors: a family of hypothalamic neuropeptides and G protein coupled receptors that regulate feeding behavior
+2 A mutation in a case of early onset narcolepsy and a generalized absence of peptides in human brains
+3 in orexin pathway genes and narcolepsy
+4 Genomic sequence of the orexin receptor 1
+5 sequencing and characterization of full length human cDNAs
+6 The DNA sequence and biological annotation of human chromosome 1
+8 The status quality and expansion of the NIH full length cDNA the Mammalian Gene
+9 orexin sleep and narcolepsy
+10 To or to Orexin in the regulation of feeding and wakefulness
+*GPCR: Orexin receptor type 2
+Homo Human
+G protein coupled receptor Receptor
+1 and orexin receptors: a family of hypothalamic neuropeptides and G protein coupled receptors that regulate feeding behavior
+2 in orexin pathway genes and narcolepsy
+3 The DNA sequence and analysis of human chromosome 6
+5 orexin sleep and narcolepsy
+6 To or to Orexin in the regulation of feeding and wakefulness
+*GPCR: Olfactory receptor
+Homo Human
+G protein coupled receptor Receptor
+1 A candidate gene for familial fever
+2 A transcriptional map of the region
+3 Genome wide discovery and analysis of human seven transmembrane helix receptor genes
+4 The status quality and expansion of the NIH full length cDNA the Mammalian Gene
+5 Distribution of olfactory receptor genes in the human genome
+6 a practical scheme for deciphering families of genes
+7 The human olfactory receptor gene family
+*GPCR: Olfactory receptor
+Homo Human
+G protein coupled receptor Receptor
+1 The DNA sequence and biological annotation of human chromosome 1
+2 Distribution of olfactory receptor genes in the human genome
+3 a practical scheme for deciphering families of genes
+4 The human olfactory receptor gene family
+*GPCR: Adhesion G protein coupled receptor B2 precursor
+Homo Human
+G protein coupled receptor Receptor
+1 Cloning and characterization of BAI2 and BAI3 novel genes homologous to brain specific angiogenesis inhibitor 1 BAI1
+2 Genome wide discovery and analysis of human seven transmembrane helix receptor genes
+3 The DNA sequence and biological annotation of human chromosome 1
+4 The status quality and expansion of the NIH full length cDNA the Mammalian Gene
+5 Brain specific angiogenesis inhibitor 2 BAI2 may be activated by proteolytic processing
+6 Identification of brain specific angiogenesis inhibitor 2 as an interaction partner of interacting protein
+7 International of basic and clinical pharmacology Adhesion G protein coupled receptors
+*GPCR: Adhesion G protein coupled receptor precursor
+Homo Human
+G protein coupled receptor Receptor
+1 Cloning and characterization of BAI2 and BAI3 novel genes homologous to brain specific angiogenesis inhibitor 1 BAI1
+2 Prediction of the coding sequences of unidentified human genes The complete sequences of 100 new cDNA clones from brain which can code for large proteins in vitro
+3 Construction of expression cDNA clones for genes: manual of cDNA clones
+4 sequencing and characterization of full length human cDNAs
+5 The DNA sequence and analysis of human chromosome 6
+7 The status quality and expansion of the NIH full length cDNA the Mammalian Gene
+8 A quantitative atlas of phosphorylation
+9 The cell adhesion G protein coupled receptor BAI3 is a high affinity receptor for C1q like proteins
+10 G protein coupled receptor BAI3 promotes fusion in vertebrates
+11 A novel evolutionarily conserved domain of cell adhesion GPCRs mediates autoproteolysis
+12 International of basic and clinical pharmacology Adhesion G protein coupled receptors
+*GPCR: Frizzled 6 precursor
+Homo Human
+Developmental protein G protein coupled receptor Receptor
+1 Molecular cloning of human frizzled 6
+2 Molecular cloning of the human Frizzled 6
+3 the human member of a novel mammalian gene lineage is implicated in and acute leukemia
+4 Genome wide discovery and analysis of human seven transmembrane helix receptor genes
+5 sequencing and characterization of full length human cDNAs
+6 The full ORF clone resource of the German cDNA
+7 DNA sequence and analysis of human chromosome 8
+9 The status quality and expansion of the NIH full length cDNA the Mammalian Gene
+10 A quantitative atlas of phosphorylation
+11 is a novel gene for human neural tube defects
+12 promotes Wnt receptor turnover in an R sensitive manner
+13 Mutations in Frizzled 6 cause isolated autosomal recessive dysplasia
+*GPCR: Olfactory receptor
+Homo Human
+G protein coupled receptor Receptor
+1 The DNA sequence and biology of human chromosome 19
+2 The status quality and expansion of the NIH full length cDNA the Mammalian Gene
+3 a practical scheme for deciphering families of genes
+4 The human olfactory receptor gene family
+Olfactory receptor
+*GPCR: Homo Human
+G protein coupled receptor Receptor
+1 The DNA sequence and biology of human chromosome 19
+2 The status quality and expansion of the NIH full length cDNA the Mammalian Gene
+3 The human olfactory receptor gene family
+*GPCR: Olfactory receptor
+Homo Human
+G protein coupled receptor Receptor
+1 The DNA sequence and biology of human chromosome 19
+2 Distribution of olfactory receptor genes in the human genome
+3 a practical scheme for deciphering families of genes
+4 The human olfactory receptor gene family
+*GPCR: Galanin receptor type 3
+Homo Human
+G protein coupled receptor Receptor
+1 human and rat galanin receptors: pharmacology and activation of G protein inwardly rectifying K+ channels
+2 of the human galanin 2 receptor gene isolated from a human uterus cDNA library
+3 Molecular characterization and expression of cloned human galanin receptors GALR2 and
+4 Structural organization and chromosomal localization of three human galanin receptor genes
+5 Isolation of cDNA coding for galanin receptor 3
+6 Genome wide discovery and analysis of human seven transmembrane helix receptor genes
+7 The DNA sequence of human chromosome 22
+9 of the galanin kisspeptin family: activates galanin receptor type II and III
+*GPCR: receptor GPR37L1 precursor
+Homo Human
+G protein coupled receptor Receptor
+1 A new family of orphan G protein coupled receptors predominantly expressed in the brain
+2 sequencing and characterization of full length human cDNAs
+4 The DNA sequence and biological annotation of human chromosome 1
+5 The status quality and expansion of the NIH full length cDNA the Mammalian Gene
+6 MS MS characterization of O glycosylation sites and glycan structures of human fluid glycoproteins
+7 GPR37 and GPR37L1 are receptors for the neuroprotective and factors and prosaposin
+*GPCR: Opsin ultraviolet sensitive
+Apis
+G protein coupled receptor protein Receptor Retinal protein
+1 blue and ultraviolet sensitive cloning heterologous expression in Drosophila and physiological characterization
+3 a vertebrate like non visual opsin expressed in the honey bee brain
+*GPCR: Endothelin B receptor precursor
+G protein coupled receptor Receptor
+1 A dinucleotide mutation in the endothelin B receptor gene is associated with lethal white syndrome a variant of disease
+2 Endothelin receptor B polymorphism associated with lethal white syndrome in
+*GPCR: Frizzled 7 precursor
+Homo Human
+Developmental protein G protein coupled receptor Receptor
+1 A novel frizzled gene identified in human esophageal carcinoma mediates beta signals
+2 Generation and annotation of the DNA sequences of human chromosomes 2 and 4
+4 Molecular cloning differential expression and chromosomal localization of human frizzled 1 frizzled 2 and frizzled 7
+5 The status quality and expansion of the NIH full length cDNA the Mammalian Gene
+6 is a modulator of Wnt signaling
+7 sequence alterations in twenty one genes selected by expression profile analysis of breast carcinomas
+*GPCR: G protein coupled receptor 32
+Homo Human
+G protein coupled receptor Receptor
+1 Cloning genes encoding receptors related to chemoattractant receptors
+2 The status quality and expansion of the NIH full length cDNA the Mammalian Gene
+*GPCR: rich repeat containing G protein coupled receptor 5 precursor
+Homo Human
+G protein coupled receptor Receptor
+1 Identification and cloning of an orphan G protein coupled receptor of the glycoprotein hormone receptor subfamily
+2 Characterization of two LGR genes homologous to gonadotropin and thyrotropin receptors with extracellular leucine rich repeats and a G protein coupled seven transmembrane region
+3 spliced transcript of the GPR49 mRNA occur in different tumor cell lines and soft tissue sarcoma
+4 The DNA sequence of human chromosome 12
+5 The status quality and expansion of the NIH full length cDNA the Mammalian Gene
+6 Overexpression of orphan G protein coupled receptor in human hepatocellular carcinomas with beta mutations
+7 Identification of overexpression of orphan G protein coupled receptor GPR49 in human colon and ovarian primary tumors
+8 Immunostaining of Lgr5 an intestinal stem cell marker in normal and human gastrointestinal tissue
+9 LGR4 and LGR5 are R receptors mediating Wnt beta and Wnt PCP signalling
+10 Lgr5 homologues associate with Wnt receptors and mediate R signalling
+11 R function as ligands of the orphan receptors LGR4 and LGR5 to regulate Wnt beta signaling
+12 R potentiates Wnt beta signaling through orphan receptors LGR4 and LGR5
+13 Constitutive Internalization of the rich G Protein coupled Receptor 5 LGR5 to the Trans Golgi Network
+14 Structure of stem cell growth factor R 1 in complex with the ectodomain of its receptor LGR5
+15 The structural basis of R recognition by LGR5 and
+*GPCR: acid type B receptor subunit 2 precursor
+Homo Human
+G protein coupled receptor Receptor
+1 Heterodimerization is required for the formation of a functional GABAB receptor
+2 Cloning of a novel G protein coupled receptor GPR 51 resembling GABAB receptors expressed predominantly in nervous tissues and mapped proximal to the hereditary sensory neuropathy type 1 locus on chromosome 9
+3 Molecular identification of the human cell surface expression and coupling to adenylyl cyclase in the absence of
+4 Distribution of the GABAB receptor subunit in rat CNS
+5 Cloning and characterization of a novel human GABA B receptor subtype with high affinity for GABA and low affinity for baclofen
+7 DNA sequence and analysis of human chromosome 9
+8 The status quality and expansion of the NIH full length cDNA the Mammalian Gene
+9 Identification of a GABAB receptor subunit required for functional GABAB receptor activity
+10 Coexpression of full length gamma GABAB receptors with truncated receptors and metabotropic glutamate receptor 4 supports the GABAB heterodimer as the functional receptor
+11 Subcellular distribution of GABAB receptor homo and dimers
+12 Direct detection of the interaction between recombinant soluble extracellular regions in the heterodimeric metabotropic gamma acid receptor
+13 Structure and functional interaction of the extracellular domain of human GABAB receptor
+14 Structural mechanism of ligand activation in human GABAB receptor
+*GPCR: Putative olfactory receptor
+Homo Human
+G protein coupled receptor Receptor
+1 olfactory receptor genes and loci constitute extended haplotypes
+2 The DNA sequence and analysis of human chromosome 6
+4 a practical scheme for deciphering families of genes
+5 The human olfactory receptor gene family
+*GPCR: Olfactory receptor
+Homo Human
+G protein coupled receptor Receptor
+1 olfactory receptor genes and loci constitute extended haplotypes
+2 The DNA sequence and analysis of human chromosome 6
+3 The status quality and expansion of the NIH full length cDNA the Mammalian Gene
+4 a practical scheme for deciphering families of genes
+5 The human olfactory receptor gene family
+7 Genetic variation in the odorant receptor is associated with the ability to detect the odor cis 3 1
+*GPCR: Olfactory receptor
+Homo Human
+G protein coupled receptor Receptor
+1 olfactory receptor genes and loci constitute extended haplotypes
+2 The DNA sequence and analysis of human chromosome 6
+3 The status quality and expansion of the NIH full length cDNA the Mammalian Gene
+4 The human olfactory receptor gene family
+*GPCR: Olfactory receptor
+Homo Human
+G protein coupled receptor Receptor
+1 The DNA sequence and biology of human chromosome 19
+2 a practical scheme for deciphering families of genes
+3 Specific repertoire of olfactory receptor genes in the male germ cells of several mammalian species
+4 The human olfactory receptor gene family
+*GPCR: Olfactory receptor
+Homo Human
+G protein coupled receptor Receptor
+1 The DNA sequence and biology of human chromosome 19
+2 a practical scheme for deciphering families of genes
+3 The human olfactory receptor gene family
+*GPCR: Frizzled 3 precursor
+Drosophila melanogaster fly
+Developmental protein G protein coupled receptor Receptor
+1 3 a new Drosophila Wnt receptor acting as an of signaling in hypomorphic mutants
+2 The target gene encodes a new member of the Drosophila Frizzled family
+3 The genome sequence of Drosophila melanogaster
+4 of the Drosophila melanogaster a systematic review
+5 From sequence to the tip of the X chromosome of D melanogaster
+*GPCR: Prostaglandin D2 receptor 2
+Mouse
+G protein coupled receptor Receptor
+1 Molecular cloning chromosome mapping and characterization of the mouse CRTH2 gene a putative member of the leukocyte chemoattractant receptor family
+2 Gene structure and functional properties of mouse CRTH2 a prostaglandin D2 receptor
+4 The status quality and expansion of the NIH full length cDNA the Mammalian Gene
+5 Prostaglandin D2 plays an essential role in chronic allergic inflammation of the skin via CRTH2 receptor
+6 A tissue specific atlas of mouse protein phosphorylation and expression
+*GPCR: G protein coupled receptor
+Mouse
+G protein coupled receptor Receptor
+1 A DNA damage and stress inducible G protein coupled receptor blocks cells in G2 M
+2 The transcriptional landscape of the mammalian genome
+3 The status quality and expansion of the NIH full length cDNA the Mammalian Gene
+4 Expression of G2A a receptor for lysophosphatidylcholine by macrophages in murine rabbit and human atherosclerotic
+5 Lysophosphatidylcholine induced surface redistribution regulates signaling of the murine G protein coupled receptor G2A
+*GPCR: rich repeat containing G protein coupled receptor 5 precursor
+Mouse
+G protein coupled receptor Receptor
+1 Identification of a novel seven transmembrane receptor with homology to glycoprotein receptors and its expression in the adult and developing mouse
+2 The transcriptional landscape of the mammalian genome
+4 lethality of LGR5 null mice is associated with and gastrointestinal
+5 Identification of stem cells in small intestine and colon by marker gene Lgr5
+6 Lgr5 cycling yet long hair follicle stem cells
+7 Lgr5 homologues associate with Wnt receptors and mediate R signalling
+*GPCR: hormone receptor
+pig
+G protein coupled receptor Receptor
+1 Cloning of the guinea pig corticotropin ACTH receptor gene
+*GPCR: Olfactory receptor 49
+Mouse
+G protein coupled receptor Receptor
+1 Identification of ligands for olfactory receptors by functional expression of a receptor library
+2 The olfactory receptor gene superfamily of the mouse
+3 Odorant receptor expressed sequence tags demonstrate olfactory expression of over 400 genes extensive alternate splicing and expression levels
+4 specific biology revealed by a genome assembly of the mouse
+6 The status quality and expansion of the NIH full length cDNA the Mammalian Gene
+*GPCR: acid type B receptor subunit 1 precursor
+Rat
+G protein coupled receptor Receptor
+1 Expression cloning of GABAB receptors uncovers similarity to metabotropic glutamate receptors
+2 Cloning and tissue distribution of novel splice variants of the rat GABAB receptor
+3 Alternative splicing generates a novel isoform of the rat metabotropic receptor
+4 Identification of a GABAB receptor subunit required for functional GABAB receptor activity
+5 Synthesis of the nanomolar photoaffinity GABAB receptor ligand CGP reveals diversity in the tissue distribution of GABAB receptor forms
+6 Role of heteromer formation in GABAB receptor function
+7 The metabotropic GABAB receptor directly interacts with the activating transcription factor 4
+8 Ca2+ requirement for high affinity gamma acid GABA binding at GABAB receptors: involvement of serine of the subunit
+9 1 a novel RNA binding protein associates with GABA receptors
+10 Quantitative maps of protein phosphorylation sites across 14 different rat organs and tissues
+11 Structural analysis of the complement control protein modules of GABAB receptor only one of the two modules is folded
+*GPCR: Sphingosine 1 phosphate receptor 3
+Mouse
+G protein coupled receptor Receptor
+1 Comparative analysis of three murine G protein coupled receptors activated by sphingosine 1 phosphate
+2 The transcriptional landscape of the mammalian genome
+3 sphingosine 1 phosphate receptor gene complete
+4 The status quality and expansion of the NIH full length cDNA the Mammalian Gene
+*GPCR: CD97 antigen precursor
+Mouse
+G protein coupled receptor Receptor
+1 Molecular cloning and characterization of mouse CD97
+2 Structural characterization of mouse CD97 and study of its specific interaction with the murine decay accelerating factor
+3 The status quality and expansion of the NIH full length cDNA the Mammalian Gene
+4 The transcriptional landscape of the mammalian genome
+5 The epidermal growth factor seven transmembrane EGF TM7 receptor CD97 is required for neutrophil migration and host defense
+6 The mouse cell surface N linked identification occupancy and membrane orientation
+7 Mass spectrometric identification and relative quantification of N linked cell surface glycoproteins
+8 A tissue specific atlas of mouse protein phosphorylation and expression
+*GPCR: CX3C chemokine receptor 1
+Mouse
+G protein coupled receptor Receptor
+1 Gene cloning RNA distribution and functional expression of a mouse chemotactic receptor for the CX3C chemokine
+2 Cloning and characterization of murine CX3CR1 a receptor for murine
+3 The status quality and expansion of the NIH full length cDNA the Mammalian Gene
+4 A tissue specific atlas of mouse protein phosphorylation and expression
+*GPCR: Sphingosine 1 phosphate receptor 4
+Mouse
+G protein coupled receptor Receptor
+1 a novel G protein coupled receptor related to receptors for bioactive lysophospholipids is specifically expressed in lymphoid tissue
+2 genomic arrangement of a G protein and G protein coupled receptor gene
+3 The transcriptional landscape of the mammalian genome
+4 The status quality and expansion of the NIH full length cDNA the Mammalian Gene
+*GPCR: Cysteinyl leukotriene receptor 1
+Homo Human
+G protein coupled receptor Receptor
+1 Characterization of the human cysteinyl leukotriene CysLT1 receptor
+2 Identification molecular cloning expression and characterization of a cysteinyl leukotriene receptor
+3 Isolation of complete coding sequence for cysteinyl leukotriene receptor 1
+4 sequencing and characterization of full length human cDNAs
+5 The DNA sequence of the human X chromosome
+7 The status quality and expansion of the NIH full length cDNA the Mammalian Gene
+*GPCR: G protein coupled receptor 52
+Homo Human
+G protein coupled receptor Receptor
+1 Identification and cloning of three novel human G protein coupled receptor genes GPR52 and GPR55: GPR55 is extensively expressed in human brain
+2 The DNA sequence and biological annotation of human chromosome 1
+3 The status quality and expansion of the NIH full length cDNA the Mammalian Gene
+*GPCR: G protein coupled receptor 55
+Homo Human
+G protein coupled receptor Receptor
+1 Identification and cloning of three novel human G protein coupled receptor genes GPR52 and GPR55: GPR55 is extensively expressed in human brain
+2 Cloning of human full open reading frames in system entry vector
+3 The status quality and expansion of the NIH full length cDNA the Mammalian Gene
+4 Identification of GPR55 as a lysophosphatidylinositol receptor
+5 The GPR55 ligand L alpha lysophosphatidylinositol promotes RhoA dependent Ca2+ signaling and NFAT activation
+6 Atypical responsiveness of the orphan receptor GPR55 to cannabinoid ligands
+7 The putative cannabinoid receptor GPR55 affects osteoclast function in vitro and bone mass in vivo
+*GPCR: Olfactory receptor
+Homo Human
+G protein coupled receptor Receptor
+1 olfactory receptor genes and loci constitute extended haplotypes
+2 The DNA sequence and analysis of human chromosome 6
+4 The status quality and expansion of the NIH full length cDNA the Mammalian Gene
+5 a practical scheme for deciphering families of genes
+6 The human olfactory receptor gene family
+*GPCR: Olfactory receptor
+Homo Human
+G protein coupled receptor Receptor
+1 The DNA sequence and biology of human chromosome 19
+2 The status quality and expansion of the NIH full length cDNA the Mammalian Gene
+3 a practical scheme for deciphering families of genes
+4 The human olfactory receptor gene family
+*GPCR: Olfactory receptor
+Homo Human
+G protein coupled receptor Receptor
+1 Sequence structure and evolution of a complete human olfactory receptor gene cluster
+2 The status quality and expansion of the NIH full length cDNA the Mammalian Gene
+3 a practical scheme for deciphering families of genes
+4 The human olfactory receptor gene family
+*GPCR: Histamine H3 receptor
+Homo Human
+G protein coupled receptor Receptor
+1 Cloning and functional expression of the human histamine H3 receptor
+2 Molecular cloning and characterization of a new human histamine receptor
+3 Genomic organization and characterization of splice variants of the human histamine H3 receptor
+4 Structure of the human histamine H3 receptor gene and identification of naturally occurring variations
+5 Cloning and functional expression of the human histamine receptor
+6 The DNA sequence and comparative analysis of human chromosome 20
+7 The status quality and expansion of the NIH full length cDNA the Mammalian Gene
+*GPCR: Olfactory receptor
+Homo Human
+G protein coupled receptor Receptor
+1 Conservation of sequence and structure flanking the mouse and human beta the beta genes are embedded within an array of odorant receptor genes
+3 Comparative structural and functional analysis of the olfactory receptor genes flanking the human and mouse beta gene clusters
+4 Human chromosome 11 DNA sequence and analysis including novel gene identification
+5 The status quality and expansion of the NIH full length cDNA the Mammalian Gene
+*GPCR: Olfactory receptor
+Homo Human
+G protein coupled receptor Receptor
+1 Conservation of sequence and structure flanking the mouse and human beta the beta genes are embedded within an array of odorant receptor genes
+3 Human chromosome 11 DNA sequence and analysis including novel gene identification
+4 a practical scheme for deciphering families of genes
+*GPCR: Neuropeptide FF receptor 2
+Homo Human
+G protein coupled receptor Receptor
+1 Sequence and tissue distribution of a novel G protein coupled receptor expressed prominently in human placenta
+2 Receptor for the pain modulatory neuropeptides FF and is an orphan G protein coupled receptor
+3 Identification and characterization of two G protein coupled receptors for neuropeptide FF
+4 Molecular cloning and characterisation of a novel G protein coupled receptor closest related to the Y receptor family
+5 Identification and characterization of two cognate receptors for mammalian FMRFamide like neuropeptides
+6 Cloning and characterization of the receptor and identification of a novel short mRNA isoform in human hypothalamus
+*GPCR: G protein coupled receptor 45
+Homo Human
+G protein coupled receptor Receptor
+1 Discovery of three novel orphan G protein coupled receptors
+2 Generation and annotation of the DNA sequences of human chromosomes 2 and 4
+3 The status quality and expansion of the NIH full length cDNA the Mammalian Gene
+4 The consensus coding sequences of human breast and colorectal cancers
+*GPCR: Prostaglandin D2 receptor 2
+Homo Human
+G protein coupled receptor Receptor
+1 Discovery of three novel orphan G protein coupled receptors
+2 Selective expression of a novel surface molecule by human cells in vivo
+3 Tissue expression and chromosomal organization of a novel G protein coupled receptor
+4 cDNA clones of human proteins involved in signal transduction sequenced by the cDNA resource center
+5 Human chromosome 11 DNA sequence and analysis including novel gene identification
+6 The status quality and expansion of the NIH full length cDNA the Mammalian Gene
+7 Prostaglandin D2 is a potent chemoattractant for human eosinophils that acts via a novel DP receptor
+8 A novel surface molecule of and type cells CRTH2 expression on human peripheral and CD4+ and T cells during the early stage of pregnancy
+9 Prostaglandin D2 selectively induces chemotaxis in T helper type 2 cells eosinophils and via seven transmembrane receptor CRTH2
+10 Molecular pharmacology of the human prostaglandin D2 receptor CRTH2
+11 Inhibition of PI3K and calcineurin suppresses chemoattractant receptor homologous molecule expressed on cells CRTH2 dependent responses of lymphocytes to prostaglandin D2
+12 Differential regulation of the signaling and trafficking of the two prostaglandin D2 receptors prostanoid DP receptor and CRTH2
+13 Characterization of C terminal tail determinants involved in CRTH2 receptor identification of a recycling motif
+*GPCR: G protein coupled receptor 56 precursor
+Homo Human
+Developmental protein G protein coupled receptor Receptor
+1 GPR56 a novel secretin like human G protein coupled receptor gene
+2 a novel human EGF TM7 like protein detected with mRNA differential display using human melanoma cell lines with different metastatic potential
+4 The secreted protein discovery a large scale effort to identify novel human secreted and transmembrane proteins: a bioinformatics assessment
+5 sequencing and characterization of full length human cDNAs
+6 Genome wide discovery and analysis of human seven transmembrane helix receptor genes
+7 Cloning of human full length in system donor vector
+8 The full ORF clone resource of the German cDNA
+9 The sequence and analysis of duplication rich human chromosome 16
+11 The status quality and expansion of the NIH full length cDNA the Mammalian Gene
+12 Signal peptide prediction based on analysis of experimentally verified cleavage sites
+13 Dynamic regulation of a GPCR G protein complex on intact cells: central role of CD81 in facilitating GPR56 Galpha q 11 association
+14 Global in vivo and site specific phosphorylation dynamics in signaling networks
+15 GPR56 an atypical G protein coupled receptor binds tissue transglutaminase TG2 and inhibits melanoma tumor growth and metastasis
+16 variants of the orphan G protein coupled receptor GPR56 regulate the activity of transcription factors associated with tumorigenesis
+17 GPR56 Regulates VEGF production and angiogenesis during melanoma progression
+18 Disease associated GPR56 mutations cause bilateral frontoparietal polymicrogyria via multiple mechanisms
+19 The N terminus of the adhesion G protein coupled receptor GPR56 controls receptor signaling activity
+20 A novel evolutionarily conserved domain of cell adhesion GPCRs mediates autoproteolysis
+21 Disease associated mutations prevent GPR56 collagen III interaction
+22 dynamic alternative splicing of GPR56 regulates regional cerebral cortical patterning
+23 G protein coupled receptor dependent development of human frontal cortex
+24 phenotype analysis of human frontoparietal polymicrogyria syndromes
+25 A novel GPR56 mutation causes bilateral frontoparietal polymicrogyria
+*GPCR: C C chemokine receptor type 9
+Mouse
+G protein coupled receptor Receptor
+1 Identification of the orphan chemokine receptor GPR 9 6 as the receptor for the chemokine
+2 The chemokine is expressed by and intestinal epithelial cells and attracts double and single positive expressing the receptor
+3 The transcriptional landscape of the mammalian genome
+4 The status quality and expansion of the NIH full length cDNA the Mammalian Gene
+*GPCR: Apelin receptor
+Mouse
+Developmental protein G protein coupled receptor Receptor
+1 Amino acid sequence and embryonic expression of the mouse homolog of Xenopus X and human APJ
+2 The transcriptional landscape of the mammalian genome
+3 The status quality and expansion of the NIH full length cDNA the Mammalian Gene
+*GPCR: acid type B receptor subunit 1 precursor
+Mouse
+G protein coupled receptor Receptor
+1 Coexpression of full length gamma GABAB receptors with truncated receptors and metabotropic glutamate receptor 4 supports the GABAB heterodimer as the functional receptor
+2 The murine GABAB receptor 1: cDNA cloning tissue distribution structure of the gene and mapping to chromosome 17
+3 specific biology revealed by a genome assembly of the mouse
+4 The status quality and expansion of the NIH full length cDNA the Mammalian Gene
+5 Role of heteromer formation in GABAB receptor function
+6 1 a novel RNA binding protein associates with GABA receptors
+7 A tissue specific atlas of mouse protein phosphorylation and expression
+*GPCR: Type 1 angiotensin II receptor
+pig
+G protein coupled receptor Receptor
+1 Molecular cloning of guinea pig angiotensin type 1 receptor
+*GPCR: Neuropeptide Y receptor type 1
+pig
+G protein coupled receptor Receptor
+1 The cloned guinea pig neuropeptide Y receptor Y1 to other mammalian Y1 receptors
+*GPCR: Adhesion G protein coupled receptor precursor
+Rat
+G protein coupled receptor Receptor
+1 a novel member of the G protein coupled helical receptor GPCR family that has like repeats in a long N terminal extracellular domain and defines a new subfamily of GPCRs
+2 of at a module and at a conserved G protein coupled receptor proteolytic site
+3 Multiple processing of GPR116 a G protein coupled receptor with like repeats and generation of like fragment
+4 Quantitative of vasopressin sensitive renal cells: regulation of 2 phosphorylation at two sites
+5 Quantitative maps of protein phosphorylation sites across 14 different rat organs and tissues
